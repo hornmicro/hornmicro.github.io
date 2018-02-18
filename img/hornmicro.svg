@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1766px" height="339px" viewBox="0 0 1766 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, -26.000000)" fill="#000000">
+            <path d="M17.5682672,341 C15.8780571,330.415684 15,319.560383 15,308.5 C15,195.557769 106.557769,104 219.5,104 C332.442231,104 424,195.557769 424,308.5 C424,319.560383 423.121943,330.415684 421.431733,341 L17.5682672,341 Z" id="Oval-1" stroke="#000000" stroke-width="30"></path>
+            <path d="M259,43 L219,360.28006" id="Path" stroke="#FFFFFF" stroke-width="60"></path>
+            <path d="M261,30 L253,95" id="Path-Copy" stroke="#000000" stroke-width="60"></path>
+            <text id="hornmicro" font-family="Roboto-BlackItalic, Roboto" font-size="288" font-style="italic" font-weight="700">
+                <tspan x="464" y="358">hornmicro</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
